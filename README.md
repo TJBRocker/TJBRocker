@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**TJBRocker/TJBRocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tom, an aspiring Data Analyst, who has recently emigrated to the US from the UK! 
 
-Here are some ideas to get you started:
+I am self taught in SQL, PowerBI and Tableau. I am also currently tackling Phython and it's many uses in the data world
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Background
+
+I have spent the last 9 years working in finance & accounting, often using large complex datasets but I'm looking to transition more into the data world :earth_americas::earth_africa::earth_asia:. During this time I completed accounting studies :book:, working towards a CPFA (Charted Public Finance Accountant) status.
+
+I also hold a Masters degree in Physics, further highlighting my analytic mind and nature.
+
+### Portfolio
+
+- My SQL portfolios can be found [HERE] (https://github.com/TJBRocker/SQL-Portfolio)
+- Tableau can be found on my [Tableau Public page](https://public.tableau.com/app/profile/thomas.brookes)
+
+### Where to find me:
+- [Linkedin](https://www.linkedin.com/in/thomas-brookes-28168b67/)
+- [Instagram](https://www.instagram.com/tomjbr/)
