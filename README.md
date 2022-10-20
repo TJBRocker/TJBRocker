@@ -12,7 +12,7 @@ I also hold a Masters degree in Physics, further highlighting my analytic mind a
 
 ### Portfolio
 
-- My SQL portfolios can be found [HERE] (https://github.com/TJBRocker/SQL-Portfolio)
+- My SQL portfolios can be found [HERE](https://github.com/TJBRocker/SQL-Portfolio)
 - Tableau can be found on my [Tableau Public page](https://public.tableau.com/app/profile/thomas.brookes)
 
 ### Where to find me:
