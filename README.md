@@ -6,7 +6,7 @@ I am self taught in SQL, PowerBI and Tableau. I am also currently tackling Phyth
 
 ### Background
 
-Over the last 9 years I have been working in finance & accounting, often using large complex datasets but I'm looking to transition more into the data world :earth_americas::earth_africa::earth_asia:. During this time I completed my accounting studies :book:, working towards a CPFA (Charted Public Finance Accountant) status.
+Over the last 9 years I have been working in finance & accounting, often using large complex datasets . During this time I completed my accounting studies :book:, working towards a CPFA (Charted Public Finance Accountant) status.
 
 I also hold a Masters degree in Physics, further highlighting my analytic mind and nature.
 
