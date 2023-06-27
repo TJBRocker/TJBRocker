@@ -2,7 +2,7 @@
 
 I'm Tom, an aspiring Data Analyst, who has recently emigrated to the US from the UK! 
 
-I am self taught in SQL, PowerBI and Tableau. I am also currently tackling Phython and it's many uses in the data world
+I am self taught in SQL, PowerBI and Tableau. I am also currently tackling Python and it's many uses in the data world
 
 ### Background
 
